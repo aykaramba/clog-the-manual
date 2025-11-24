@@ -34,5 +34,6 @@ Net security in general
 Application security
 https
 
+
 STATUS: Nov 23, 2025
 * Evaluating / testing documentation frameworks and approaches (presentation matters)
