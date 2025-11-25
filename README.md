@@ -12,8 +12,8 @@ We need a solid user manual:
 
 - CLOG Application Creation
 
-1. Basics - create-* pattern and used of properties
-1. Using html to layout binding by id
+1. Basics - create-* patterns, properties and events
+1. Using html to do layout and binding controls by id
 1. Using panels - creating manually and with the builder, using panels as templates
 1. Using html grides to layout panels
 1. Using CSS affectively
