@@ -38,3 +38,9 @@ https
 STATUS: Nov 23, 2025
 * Evaluating / testing documentation frameworks and approaches (presentation matters)
 * Working on code examples that illustrate CLOG develooment patterns
+
+STATUS: Nov 27, 2025
+* Current top candidata is MkDocs with the Material theme: https://squidfunk.github.io/mkdocs-material/
+* Looking for: As few markup features as possible and no fewer, nice layout, ease of deployment of system on client platforms.
+* Long term goal: Support minimum amount of markdown on the github repo that can eventually be imported into a CLOG based wiki (already under development).
+* Still need to do a bit of testing against Retext and other options.
