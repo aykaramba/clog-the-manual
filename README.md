@@ -70,3 +70,7 @@ STATUS: Dec 08, 2025
 * Special features: relatively easy to use, minimal markup with maximum power, Github compatible, Github actions compatible.
 * Next steps: fix up the theme colors to be CLOG official brand colors, have a conversation with Rabbi Botton about any changes or preferences he wants to see applied, then start building out the first Clog tutorial.
 * Rabbi, please take a look and give me your initial thoughts.
+
+STATUS: Dec 12, 2025
+* I am busy this week.
+* I did managed to test Zensical. There will be positive updates over the weekend.
