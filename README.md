@@ -4,11 +4,13 @@
 </p>
 
 
-<h4>
+<h5>
   <p align="center">
+    <i>
 The Common Lisp Omnificent GUI
+    </i>
   </p>
-</h4>
+</h5>
   
 <h3><p align="center">PRODUCTION READY • BSD LICENSED </p></h3>
 
