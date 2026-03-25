@@ -5,11 +5,6 @@
 
 
 
-<figure markdown="span">
-  ![Image title](assets/images/logo.svg){ width="200" }
-<figcaption><b>The Common Lisp Omnificent GUI</b></figcaption>
-</figure>
-
 
 
 <h3><p style="text-align: center;">PRODUCTION READY • BSD LICENSED </p></h3>
