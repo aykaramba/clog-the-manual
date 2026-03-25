@@ -26,3 +26,6 @@ Unzip, double click make.bat and then drag the resulting builder.exe to your
 application bar or double click. Update regularly by running update.bat
 If you change directories you need to run make.bat or update.bat
 
+# NOTE
+
+Someone wrote up a bunch of this on Reddit here: https://old.reddit.com/r/lisp/comments/1rpm4xl/orientation_understanding_common_lisp_development/
