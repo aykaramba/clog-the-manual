@@ -22,7 +22,11 @@ CLOG is the GUI framework that finally gives Common Lisp the omnificent power it
 
 <br><br>
 
+<p align="center">
+<a href="https://rabbibotton.github.io/clog-the-manual/">
 <img width="231" height="51" alt="button-manual" src="https://github.com/user-attachments/assets/e6c0cd4e-6950-4479-ae44-9911ce3ba894" />
+</a>
+</p>
 
 
 
