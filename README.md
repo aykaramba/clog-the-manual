@@ -7,9 +7,9 @@
 
 
 
-<h3><p align="center">">PRODUCTION READY • BSD LICENSED </p></h3>
+<h3><p align="center">PRODUCTION READY • BSD LICENSED </p></h3>
 
-<h1> <p align="center">">Build anything in pure Common Lisp.</p></h1>
+<h1> <p align="center">Build anything in pure Common Lisp.</p></h1>
 
 <h2> The GUI framework for developers and startups who want ship MVPs in days, not months. &nbsp; Desktop, web, mobile — all in one language. </h2>
 
