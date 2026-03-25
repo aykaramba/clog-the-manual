@@ -14,7 +14,7 @@
 
 <h2> The GUI framework for developers and startups who want ship MVPs in days, not months. &nbsp; Desktop, web, mobile — all in one language. </h2>
 
-CLOG is the GUI framework that finally gives Common Lisp the omnificent power it deserves. Write stunning desktop, web, and mobile apps with **zero HTML, zero JavaScript, zero context switching**.  All your logic, all your UI — in the language you love. 
+CLOG is the GUI framework that finally gives Common Lisp the omnificent power it deserves. Write stunning desktop, web, and mobile apps with **zero HTML (if you so choose), zero JavaScript (if you so choose), zero context switching (if you so choose)**.  All your logic, all your UI — in the language you love. 
 
 <br><br>
 
