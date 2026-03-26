@@ -35,13 +35,13 @@ We need to document the minimal set of governance information so that users know
 
 ### Questions and Discussions 
 
-**I have a question about CLOG, where can I ask?**
+***I have a question about CLOG, where can I ask?***
 
 [CLOG - Forums on GitHub](https://github.com/rabbibotton/clog/discussions){ .yellow target="_blank" }
 
 ### Bug Reports
 
-**I found a bug in CLOG, where do I submit it?**
+***I found a bug in CLOG, where do I submit it?***
 
 [CLOG - Issues on GitHub](https://github.com/rabbibotton/clog/issues){ .yellow target="_blank" }
 
@@ -50,17 +50,14 @@ We need to document the minimal set of governance information so that users know
 
 ### Questions and Discussions
 
-!!! warning
-    Rabbi, we need to turn on the Discussions in the documentation project.
+***I have a question about the documentation project, where is the official discussion hosted?***
 
-**I have a question about the documentation project, where is the official discussion hosted?**
-
-[Documentation Project -  Forums on GitHub](#){ .yellow target="_blank" }
+[Documentation Project -  Forums on GitHub](https://github.com/rabbibotton/clog/discussions/categories/general-documentation){ .yellow target="_blank" }
 
 
 ### Bug Reports 
 
-**I found a bug in the documentation, where do I report it?**
+***I found a bug in the documentation, where do I report it?***
 
 [Documentation Project - Issues on GitHub](https://github.com/rabbibotton/clog-the-manual/issues){ .yellow  target="_blank" }
 
